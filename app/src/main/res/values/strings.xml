@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">科技政策</string>
+    <string name="tv_loading">正在加载中...</string>
+    <string name="tv_fujian">附件：</string>
+    <string name="tv_interaction_titleBar">公众互动</string>
+    <string name="rb_home_text">首页</string>
+    <string name="rb_objects_text">科技</string>
+    <string name="rb_search_text">搜索</string>
+    <string name="rb_setting_text">设置</string>
+    <string name="tv_splash_text_1">政策决定发展方向</string>
+    <string name="tv_splash_text_2">科技提供前进动力</string>
+    <string name="et_search_hint">请输入关键字</string>
+    <string name="tv_search_net_error_text">网络连接超时，请重新搜索.</string>
+    <string name="tv_search_hot_word_text">热门搜索</string>
+    <string name="tv_search_hot_word_1">通知</string>
+    <string name="tv_search_hot_word_2">政策</string>
+    <string name="tv_search_hot_word_3">科技</string>
+    <string name="tv_search_hot_word_4">附件</string>
+    <string name="tv_setting_titleBar_text">设置</string>
+    <string name="tv_setting_interaction_text">公众互动</string>
+    <string name="tv_setting_cache_text">清除缓存</string>
+    <string name="tv_setting_about_text">关于</string>
+    <string name="tv_setting_version">科技政策 2.1.1 ▪ mathor</string>
+    <string name="tv_setting_tuisong_text">推送定制</string>
+    <string name="tv_tuisong_text">请选择您需要的推送：</string>
+    <string name="cb_tuisong_text1">科技</string>
+    <string name="cb_tuisong_text2">政策</string>
+    <string name="cb_tuisong_text3">通知</string>
+    <string name="tv_fujian_show_text">点击此处查看附件...</string>
+</resources>

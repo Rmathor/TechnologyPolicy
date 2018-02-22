@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_titles_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_titles.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\themed_lines.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\themed_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_circles.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_circles.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\themed_circles.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\themed_circles.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_tabs.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_tabs.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_icons.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_icons.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_lines.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\themed_titles.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\themed_titles.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\themed_underlines.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\themed_underlines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_underlines.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_underlines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout\\simple_circles_vertical.xml",
+        "source": "F:\\AndroidStudioProjects\\TechnologyPolicy\\ViewPagerIndicator_sample\\src\\main\\res\\layout\\simple_circles_vertical.xml"
+    }
+]

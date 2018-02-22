@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_main"
+        android:gravity="center"
+        android:text="写在这里"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/c"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="      “科技政策”是由本人(mathor)创作的一款涉及政策、科技等的阅读性APP，该APP包含广东省科技厅发布的通知、国家政策、广东省发布的相关政策、全球科技信息、国家政策解读等相关内容；具有查看PDF文件、搜索相关信息等功能，本APP的相关内容信息来源于广东省科技厅、中国科普网、中华人民共和国科学技术部等相关网站。"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="      感谢以上网站提供的数据。"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:text="作者：mathor"
+        android:paddingRight="5dp"
+        android:textColor="@android:color/black"/>
+</LinearLayout>
